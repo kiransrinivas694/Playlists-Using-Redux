@@ -36,7 +36,7 @@ function SongPlaylist() {
   return (
     <div className="content">
       <div className="table-header">
-        <h3 className="subtitle is-3">Song Playlist</h3>
+        <h3 className="subtitle is-3">SongS Playlist</h3>
         <div className="buttons">
           <button
             onClick={() => handleSongAdd(createRandomSong())}
